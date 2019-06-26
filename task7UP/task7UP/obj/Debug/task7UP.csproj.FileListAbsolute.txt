@@ -1,0 +1,7 @@
+C:\Users\alina\Desktop\HSE\ПРАКТИКА\ЗАДАЧИ\ЗАДАЧА 7\task7UP\task7UP\bin\Debug\task7UP.exe.config
+C:\Users\alina\Desktop\HSE\ПРАКТИКА\ЗАДАЧИ\ЗАДАЧА 7\task7UP\task7UP\bin\Debug\task7UP.exe
+C:\Users\alina\Desktop\HSE\ПРАКТИКА\ЗАДАЧИ\ЗАДАЧА 7\task7UP\task7UP\bin\Debug\task7UP.pdb
+C:\Users\alina\Desktop\HSE\ПРАКТИКА\ЗАДАЧИ\ЗАДАЧА 7\task7UP\task7UP\obj\Debug\task7UP.csprojAssemblyReference.cache
+C:\Users\alina\Desktop\HSE\ПРАКТИКА\ЗАДАЧИ\ЗАДАЧА 7\task7UP\task7UP\obj\Debug\task7UP.csproj.CoreCompileInputs.cache
+C:\Users\alina\Desktop\HSE\ПРАКТИКА\ЗАДАЧИ\ЗАДАЧА 7\task7UP\task7UP\obj\Debug\task7UP.exe
+C:\Users\alina\Desktop\HSE\ПРАКТИКА\ЗАДАЧИ\ЗАДАЧА 7\task7UP\task7UP\obj\Debug\task7UP.pdb
